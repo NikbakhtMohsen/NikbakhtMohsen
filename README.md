@@ -1,8 +1,10 @@
 # Mohsen Nikbakht
 
-**BSc Artificial Intelligence student** at **London South Bank University (LSBU)**
+**MSc Applied Artificial Intelligence**  
+**London South Bank University (LSBU)** · London, United Kingdom  
+2026–2027 · Full-time · With Placement
 
-I use this GitHub to document my university work, build practical AI projects, and share reproducible research experiments.
+I use this GitHub to document postgraduate work, build practical AI projects, and share reproducible research experiments.
 
 ## Focus areas
 
@@ -22,8 +24,8 @@ I use this GitHub to document my university work, build practical AI projects, a
 
 ## Currently building
 
-- A clear portfolio of university and independent AI projects
-- Strong foundations in Python, machine learning, and data workflows
+- A clear portfolio of postgraduate and independent AI projects
+- Strong practical capability in Python, machine learning, and data workflows
 - Research habits: clear documentation, reproducibility, and responsible use of data
 
 ## Working principles
