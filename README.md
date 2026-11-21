@@ -1,37 +1,12 @@
 # Mohsen Nikbakht
 
-**MSc Applied Artificial Intelligence**  
-**London South Bank University (LSBU)** · London, United Kingdom  
-2026–2027 · Full-time · With Placement
+MSc Applied Artificial Intelligence student at London South Bank University, based in London, UK.
 
-I use this GitHub to document postgraduate work, build practical AI projects, and share reproducible research experiments.
+My postgraduate work spans Python programming, machine learning, deep learning, and the mathematical foundations of AI. I’m interested in early-career opportunities that combine building and evaluating models with responsible AI practice.
 
-## Focus areas
+## Selected work
 
-- Machine learning and deep learning
-- Data analysis and visualisation
-- Intelligent systems and applied AI
-- Research-oriented, reproducible workflows
+- **[Weather API Data Collection](https://github.com/NikbakhtMohsen/weather-api-data-collection)** — A Python and pandas notebook that joins location and weather API data, checks SQLite tables, and exports structured datasets. The repository includes setup instructions and a runnable Colab notebook.
+- **Responsible AI Assessment of Live Facial Recognition** — Submitted MSc technical report on the Metropolitan Police’s live facial recognition trials. I reviewed published evidence on identification errors and human review, applied the SUM values and FAST principles, and proposed oversight and audit steps using the Process-Based Governance framework.
 
-## What you'll find here
-
-| Area | Contents |
-|---|---|
-| `coursework` | Selected assignments, notebooks, and technical notes |
-| `projects` | End-to-end AI applications and experiments |
-| `research` | Reproducible research code, methods, and results |
-| `portfolio` | A curated guide to my strongest work |
-
-## Currently building
-
-- A clear portfolio of postgraduate and independent AI projects
-- Strong practical capability in Python, machine learning, and data workflows
-- Research habits: clear documentation, reproducibility, and responsible use of data
-
-## Working principles
-
-Every public project should include a concise README, setup instructions, dependencies, and a clear explanation of results.
-
----
-
-*Open to learning, collaboration, and thoughtful AI projects.*
+[LinkedIn](https://www.linkedin.com/in/mohsen-nikbakht-06b0a353/)
